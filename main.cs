@@ -13,7 +13,7 @@ class Program {
         
         c1.depositar(200); 
   
-        if (!c1.sacar(2)){    
+        if (!c1.sacar(6)){    
         }else{
             Console.WriteLine("Seu saldo atual é: " + c1.saldo);
         }
